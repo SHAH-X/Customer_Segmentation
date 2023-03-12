@@ -8,7 +8,7 @@ Clustering problem
 
 * Tools and Models Used : This project was completed using SQL and Python programming. The algorithm implemented in the project was K-means clustering.
 
-Feature Selection and Engineering: Generated and selected important features using the available data, which is useful for segregating the customers.
+* Feature Selection and Engineering: Generated and selected important features using the available data, which is useful for segregating the customers.
 
 * Data Pre-processing : The data was checked for collinearity and dimensionality reduction technique called Principal Component Analysis (PCA) was used to reduce the number of features by eliminating correlated features. The values were pre-processed to change the skewed distribution of variables and make it more normal. Finally, the data was standardized to have equal importance of all features.
 
